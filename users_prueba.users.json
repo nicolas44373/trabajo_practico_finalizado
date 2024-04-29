@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "662eb33b7b2c5297c9feab3a"
+  },
+  "email": "juanalurralde39@gmail.com",
+  "createdAt": {
+    "$date": "2024-04-28T20:36:11.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T20:36:11.625Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662eb3d7695d9aeadf14859b"
+  },
+  "name": "juandb",
+  "email": "juanalurralde39@gmail.com",
+  "password": "12345",
+  "createdAt": {
+    "$date": "2024-04-28T20:38:47.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T20:46:12.655Z"
+  }
+}]
